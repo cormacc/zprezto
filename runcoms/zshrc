@@ -12,3 +12,9 @@ fi
 
 # Customize to your needs...
 
+#aliases
+alias em='emacsclient -c -a ""'
+
+#suffix aliases
+alias -s html=chromium
+alias -s org=em
