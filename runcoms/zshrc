@@ -18,3 +18,8 @@ alias em='emacsclient -c -a ""'
 #suffix aliases
 alias -s html=chromium
 alias -s org=em
+
+export PIC_GCC_HOME=/opt/microchip/xc16/v1.11
+export PIC_APPLIB_HOME=/opt/microchip/applibs/v1.4.2
+
+path+=$PIC_GCC_HOME/bin
